@@ -1,2 +1,3 @@
-Spring Boot Rest backend with Mysql for a simple Ecommerce Website.
+Spring Boot Rest backend for a simple Ecommerce Website.
+Database MYSQL.
 Authorization is based JWT.
