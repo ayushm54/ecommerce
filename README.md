@@ -1,3 +1,3 @@
 Spring Boot Rest backend for a simple Ecommerce Website.
-Database MYSQL.
+Database MYSQL.\n
 JWT based Authorization.
